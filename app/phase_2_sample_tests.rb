@@ -1,6 +1,6 @@
 require_relative "phase_1_helpers"
 require_relative "phase_2_helpers"
-require_relative "../lib/due190214"
+require_relative "../due190214"
 
 @total = 0
 @pass = 0
